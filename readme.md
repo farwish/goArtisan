@@ -41,3 +41,9 @@ license:
 ## Cobra cmd application config ( default: $HOME/.goArtisan.yml )
 
 See in cmd/root.go
+
+## Apply ide code completion
+
+```
+$ go mod download
+```
