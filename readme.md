@@ -1,8 +1,10 @@
 # goArtisan
 
 Current project was created use Cobra Generator.
-
 https://github.com/spf13/cobra/blob/master/cobra/README.md
+
+Cobra docs.
+https://github.com/spf13/cobra
 
 ```
 $ cobra -h
