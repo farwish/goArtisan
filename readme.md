@@ -8,7 +8,7 @@ https://github.com/spf13/cobra
 
 ```
 $ cobra -h
-$ cobra init artisanCxdTv -a farwish --pkg-name github.com/farwish/goArtisan
+$ cobra init goArtisan -a farwish --pkg-name github.com/farwish/goArtisan
 ```
 
 ## Create command
